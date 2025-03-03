@@ -1,2 +1,3 @@
 # AMAZON-CLONE
 This is a clone of AMAZON WEBSITE
+Author:-URVASHI TANWAR
